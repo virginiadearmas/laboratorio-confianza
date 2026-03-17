@@ -88,6 +88,14 @@ A partir de estas dimensiones se generan perfiles interpretativos narrativos.
 
 ---
 
+## 🧪 Tipo de proyecto
+
+Proyecto full-stack que combina:
+- lógica de negocio
+- persistencia de datos
+- diseño de experiencia de usuario
+- narrativa interpretativa
+
 ## 📌 Estado del proyecto
 
 ✔ Funcional en entorno local  
